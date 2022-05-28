@@ -1,0 +1,29 @@
+body {font-family: 'Oswald', sans-serif;background:  #68baf5;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+h1 { 
+     text-align: center;
+     text-shadow: 1px 1px 2px rgb(145, 207, 136), 0 0 25px rgb(209, 236, 179), 0 0 5px rgb(196, 218, 206);
+     font-size: xxx-large;
+}
+marquee {
+    color: rgb(4, 35, 237);
+    
+  }
+
+
+
+
+
+
+
+
+
+
